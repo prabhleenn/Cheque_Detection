@@ -1,0 +1,18 @@
+names:
+- AccNo
+- Amount
+- Bank
+- Date
+- IFSC code
+- RecieverName
+- Signature
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: cheque-detection-zufzf
+  url: https://universe.roboflow.com/prabhleen/cheque-detection-zufzf/dataset/2
+  version: 2
+  workspace: prabhleen
+test: test/images
+train: train/images
+val: valid/images
