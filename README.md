@@ -12,6 +12,10 @@ The goal of this project is to detect the authenticity of cheques in images usin
 - Scripts for running inference on new images and videos.
 - Scripts for training the model on the custom dataset.
 
+## Prediction
+![Example Image](runs/detect/predict/Cheque-309061_jpg.rf.2bee0f4d83992313ad1a0bb8bac13a6c.jpg)
+![Example Image](runs/detect/predict/Cheque-120613_jpg.rf.a89e372820c1b3047ba736ab9a1e1920.jpg)
+
 ## Installation
 To run this project, you need to have Python 3.7+ and `pip` installed. Follow the steps below to set up the environment:
 
